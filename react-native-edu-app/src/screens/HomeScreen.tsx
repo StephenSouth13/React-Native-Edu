@@ -22,6 +22,12 @@ const lessons: Lesson[] = [
         description: 'Understand how to implement navigation in your React Native apps.',
         image: 'https://example.com/image3.png',
     },
+    {
+        id: '4',
+        title: 'How to use React Native',
+        description: 'Learn how to effectively use React Native for your mobile app development.',
+        image: 'https://example.com/image4.png',
+    },
 ];
 
 const HomeScreen: React.FC = () => {
